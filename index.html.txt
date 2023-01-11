@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <html>
 <head>
 </head>
@@ -5,3 +6,11 @@
 Assessment of Git
 </body>
 </html>
+=======
+<html>
+<head>
+</head>
+<body>
+</body>
+</html>
+>>>>>>> eab312b6ddd7dac10f3045447dcb48973e460ba3
